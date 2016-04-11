@@ -11,4 +11,4 @@ cd foohub
 vagrant up
 ```
 
-
+se connecter à ```http://localhost:8000```
